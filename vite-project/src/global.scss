@@ -3,6 +3,9 @@
 @use '/src/styles/side_menu.scss';
 @use '/src/styles/variables.scss';
 @use '/src/styles/footer.scss';
+@use '/src/styles/side_menu_mobile.scss';
+@use '/src/styles/modal_mobile_feedback.scss';
+@use '/src/styles/modal_call.scss';
 
 @font-face {
   font-family: 'TTLakes';
